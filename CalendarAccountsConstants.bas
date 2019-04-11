@@ -2,7 +2,6 @@
 Attribute VB_Name = "CalendarAccountsConstants"
 
 Public Const DefaultEmail = "your.email@yourorganization.com"
-Public Const SecondaryEmail = "your.email@clientorganization.com"
 
 Function Accounts() As String()
 
